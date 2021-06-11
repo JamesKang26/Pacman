@@ -1,7 +1,3 @@
-These are the projects for 471 at the university of oregon.
-All the projects are based on the berkley introduction to Artificial intellgence.
-All the project details can be found at "http://ai.berkeley.edu/project_overview.html"
-
 Each file represents each project.
 The first project is the file called "proj1-search-python3".
 It focuses on the "search" part of the pacman algorithm the goal for the first project
